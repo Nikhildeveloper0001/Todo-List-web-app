@@ -5,7 +5,6 @@
 > After completing your todos checked as completed and delete.
 > Their are three section All, Active, Completed.
 > view All three sections as progress on your work.
-# Todo List App
 
 A simple and interactive Todo List application built using HTML, CSS, and JavaScript. It helps users organize daily tasks, track progress, and manage completed activities through a clean and user-friendly interface.
 
