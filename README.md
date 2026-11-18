@@ -54,3 +54,7 @@ The main objective of this project is to practice JavaScript DOM manipulation, e
 ---
 
 **Developed with HTML, CSS & JavaScript.**
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
